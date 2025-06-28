@@ -93,7 +93,7 @@ button:hover {
     flex-wrap: nowrap;
 }
 .hourly-item{
-    width: 80px;
+    width: 100%;
     display: flex;
     align-items: center;
     margin-right: 1px;
